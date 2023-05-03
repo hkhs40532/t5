@@ -14,6 +14,3 @@ input.onSound(DetectedSound.Loud, function () {
 })
 let lightson = false
 input.setSoundThreshold(SoundThreshold.Loud, 150)
-basic.forever(function () {
-	
-})
